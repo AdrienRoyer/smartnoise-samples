@@ -19,6 +19,7 @@ source packages.sh
 Next, set a test password for SQL Server to use:
 
 ```
+
 export SA_PASSWORD=pass@word123
 ```
 
